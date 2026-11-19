@@ -1,4 +1,5 @@
-20
-30
-40
-90
+U1,100,food
+U3,200,travel
+U5,300,shopping
+U6,120,food
+U8,450,electronics

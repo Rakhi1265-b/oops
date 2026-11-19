@@ -1,0 +1,14 @@
+U2,-50,shopping
+ -> amount cannot be negative
+
+U4,abc,food
+ -> invalid literal for int() with base 10: 'abc'
+U7,,travel
+ -> values cannot be empty
+U2,-50,shopping
+ -> amount cannot be negative
+
+U4,abc,food
+ -> invalid literal for int() with base 10: 'abc'
+U7,,travel
+ -> values cannot be empty

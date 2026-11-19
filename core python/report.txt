@@ -1,16 +1,5 @@
-Toatl: 
-20
-30
-40
-0
--1
-90
-
-Valid: 
-20
-30
-40
-90
-
-Toatl: 
-180
+Error lines = 3
+clean lines 5
+8
+1170
+{'food\n': 220, 'travel\n': 200, 'shopping\n': 300, 'electronics\n': 450}
